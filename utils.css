@@ -1,0 +1,34 @@
+
+
+.center{
+    text-align: center;
+}
+
+
+.bg{
+background-color: #1c1c1c;
+margin: auto;
+padding: 25px ;
+width: fit-content;
+border-radius: 25px;
+display: grid;
+
+}
+.mx-auto{
+    margin: auto;
+}
+
+
+.flex{
+    display: flex;
+    
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+    margin-top: 20%;
+}
